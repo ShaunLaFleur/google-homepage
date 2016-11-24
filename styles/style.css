@@ -25,6 +25,10 @@ li.top-bar-links {
 	display: inline-block;
 }
 
+img#app-icon {
+	margin: -8px;
+}
+
 a.sign-in {
 	background-color: #4285f4;
 	color: white;
@@ -97,6 +101,7 @@ a.click-to-search {
 a.click-to-search:hover {
 	border: 1px solid #c5c3c3;
 	border-radius: 2px;
+	color:black;
 }
 
 div#search-buttons {
@@ -120,4 +125,8 @@ a.footer-links {
 	font-size: small;
 	color: gray;
 	font-weight: bold;
+}
+
+a.footer-links:hover {
+	text-decoration: underline;
 }
