@@ -1,1 +1,1 @@
-As part of The Odin Project I was tasked with re-creating the basic google home page using HTML and CSS, using Dev Tools only when necessary. Functionality was not required; it was only required that I replicated the aesthetic.
+From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css
